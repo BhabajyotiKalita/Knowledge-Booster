@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Change Password</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+<link rel="stylesheet" type="text/css" href="css/changepswrdstyle.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="data/logo.png">
+</head>
+<body data-vide-bg="data/vdo/abc5.mp4">
+
+		<div id="menu-bar">
+			<div id="menu" onclick="onClickMenu()">
+				<div id="bar1" class="bar"></div>
+				<div id="bar2" class="bar"></div>
+				<div id="bar3" class="bar"></div>
+			</div>
+			<ul class="nav" id="nav">
+				<li><a href="1frontpage.html">Home</a></li>
+				<li><a href="7quiz.html">Quiz</a></li>
+				<li><a href="4registration.html">Register</a></li>
+				<li><a href="6about.html">About</a></li>
+				<li><a href="5contact.html">Contact</a></li>
+			</ul>
+		</div>
+		<div class="menu-bg" id="menu-bg"></div>
+		<script src="javascript/register.js"></script>
+
+		<div class="container">
+		<h1>Change you Password ?</h1>
+		<form id="chngpswrd_form" autocomplete="off">
+			
+			<div>
+				<input type="password" id="form_password" name="" required="">
+				<span class="error_form" id="password_error_message"></span>
+				<label>Enter a new Password</label>	
+			</div>
+			<div>
+				<input type="password" id="form_retype_password" name="" required="">
+				<span class="error_form" id="retype_password_error_message"></span>
+				<label>Re-Enter Password</label>	
+			</div>
+			<div>
+				<input type="securityqtn" id="form_securityqtn" name="" required="">
+				<span class="error_form" id="securityqtn_error_message"></span>
+				<select name="securityqtn" id="securityqtn">
+				<option selected disabled>Answer your Security Question</option>
+				<option value="favmovie">What is your favourite movie?</option>
+				<option value="favactor">Who is your favourite actor?</option>
+				<option value="petname">What is your pet's name?</option>
+				<option value="favsinger">Who is your favourite singer?</option>
+			</div>
+			<input type="submit" value="Change Password" name="">
+		</form>
+	</div>
+		
+		<script src="https://code.jquery.com/jquery-3.4.1.js"></script> 
+		<script src="data/vdo/jquery.vide.js"></script> 
+		
+</body>
+</html>

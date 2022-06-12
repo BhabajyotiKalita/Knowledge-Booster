@@ -1,0 +1,221 @@
+*** QUESTIONS ***
+
+
+		{
+			question:"",
+			options:["","","",""],
+			answer:,
+			description:"",
+		},
+
+
+
+		{
+			question:"",
+			options:["","","",""],
+			answer:,
+		},
+
+
+--- Computer Science ---
+
+		{
+			question:"A light sensetive device that converts images into digital form is:",
+			options:["Scanner","Keyboard","Plotter","OMR"],
+			answer:0,
+		},
+		{
+			question:"Second Generation Computers are made of Vaccum Tubes",
+			options:["True","False"],
+			answer:1,
+			description:"Second Generation Computers are made of Transistors"
+		},
+		{
+			question:"Which of the following memory is non-volatile?",
+			options:["SRAM","DRAM","ROM","All of the above"],
+			answer:2,
+		},
+		{
+			question:"Which network protocol is used to send Email?",
+			options:["FTP","SMTP","POP3","None of these"],
+			answer:1,
+		},
+		{
+			question:"The most advanced form of ROM is:",
+			options:["PROM","RAM","EEPROM","Cache Memory"],
+			answer:2,
+			description:"Electrically Erasable Programmable Read Only Memory (EEPROM) is a special type of PROM that can be erased by exposing it to an electrical charge."
+		},
+		{
+			question:"One nibble is equal to:",
+			options:["4 bits","8 bits","6 bits","16 bits"],
+			answer:0,
+		},
+		{
+			question:"One kilobyte is equal to:",
+			options:["1000 bytes","1048 bytes","1024 bytes","512 bytes"],
+			answer:2,
+		},
+		{
+			question:"The IC chip used in computer is made of?",
+			options:["Chromium","Silica","Silicon","None of these"],
+			answer:2,
+		},
+		{
+			question:"GUI stands for Graphical User Interface",
+			options:["True","False"],
+			answer:0,
+			description:"A Graphical User Interface is a computer interface that allows users to interact with a device through graphical elements such as pictures and annimation,as opposed to text-based commands."
+		},
+		{
+			question:"One byte is equal to 1024 bits",
+			options:["True","False"],
+			answer:1,
+			description:"One byte is equal to 8 bits"
+		}
+		
+		
+		
+--- Sports ---
+
+		{
+			question:"When was the first Common Wealth Games held?",
+			options:["1930","1934","1938","1948"],
+			answer:0,
+		},
+		{
+			question:"In which sport is the participants called puglist?",
+			options:["Sprinter","Boxing","Wrestling","Javelin Throw"],
+			answer:1,
+		},
+		{
+			question:"The term 'Butterfly Stroke' is refered to in which sport?",
+			options:["Wrestling","Volleyball","Tennis","Swimming"],
+			answer:3,
+		},
+		{
+			question:"Thomas Cup is related to Tennis",
+			options:["True","False"],
+			answer:1,
+			description:"Thomas Cup is related to Badminton",
+		},
+		{
+			question:"The number of players in each side in Water Polo is:",
+			options:["6","7","8","9"],
+			answer:1,
+		},
+		{
+			question:"The term 'Pitcher' is associated with which sport?",
+			options:["Basketball","Baseball","Boxing","Wrestling"],
+			answer:1,
+		},
+		{
+			question:"The first World Cup in cricket was held in 1977",
+			options:["True","False"],
+			answer:1,
+			description:"The first World Cup in cricket was held in 1975",
+		},
+		{
+			question:"Where did the game of Chess originate?",
+			options:["India","Persia","Arabia","Europe"],
+			answer:1,
+		}
+		
+		
+		
+--- General Knowledge ---
+
+		{
+			question:"The World Largest desert is:",
+			options:["Thar","Kalahari","Sahara","Sonoran"],
+			answer:2,
+		},
+		{
+			question:"Mount Everest is located in Africa",
+			options:["True","False"],
+			answer:1,
+			description:"Mount Everest is located in Asia",
+		},
+		{
+			question:"The device used for measuring altitudes is:",
+			options:["Altimeter","Ammeter","Audiometer","Galvanometer"],
+			answer:0,
+		},
+		{
+			question:"Pink city in India is:",
+			options:["Mysore","Karnataka","Hyderabad","Jaipur"],
+			answer:3,
+		},
+		{
+			question:"Deficiency of Iron leads to:",
+			options:["Rickets","Malaria","Dental Cavity","Anaemia"],
+			answer:3,
+		},
+		{
+			question:"The chemical name of Chloroform is:",
+			options:["Sulphuric Acid","Sodium Chloride","Sodium Carbonate","Trichloromethane"],
+			answer:3,
+		},
+		{
+			question:"The hottest planet in the solar system is Jupiter",
+			options:["True","False"],
+			answer:1,
+			description:"Venus is the hottest planet in the solar system.",
+		},
+		{
+			question:"Which gas is used in the preparation of Soda water?",
+			options:["Oxygen","Carbon Dioxide","Ammonia","Hydrogen"],
+			answer:1,
+		},
+		
+		{
+			question:"Headquaters of UNO is situated at:",
+			options:["New York","Singapore","Paris","Geneva"],
+			answer:0,
+		},
+		
+		{
+			question:"Where electricity supply was first introduced in India?",
+			options:["Darjeeling","Chennai","Kolkata","Mumbai"],
+			answer:2,
+		}
+		
+		
+		
+--- English ---
+
+		{
+			question:"He told me that he _______ watching the movie.",
+			options:["is finished","was finished","had finished","not finished"],
+			answer:2,
+		},
+		{
+			question:"He is very good _______ making stories.",
+			options:["in","about","at","for"],
+			answer:2,
+		},
+		{
+			question:"I know him.",
+			options:["He is known to me.","He was known to me.","He has been known to me.","He is known to me."],
+			answer:3,
+		},
+		{
+			question:"The medicines are _______ for curing cold.",
+			options:["Proper","Real","Effective","Capable"],
+			answer:2,
+		},
+		{
+			question:"She _______ me of a girl I used to know.",
+			options:["remembers","recalls","recollects","reminds"],
+			answer:3,
+		},
+		{
+			question:"The philosophical theory of knowledge:",
+			options:["genealogy","epistemology","ethnology","sociology"],
+			answer:1,
+		},
+		{
+			question:"A place where ship load and unload goods:",
+			options:["Port","Termial","Coach","Hanger"],
+			answer:0,
+		}
